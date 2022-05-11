@@ -1,3 +1,1 @@
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=endocryne&show_icons=true&locale=en&layout=compact" alt="endocryne" /></p>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Endocryne&layout=compact&theme=gruvbox)
